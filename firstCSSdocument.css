@@ -1,7 +1,19 @@
-h1{
-	color: #0FFE45;
+body{
+	background-color:#000000;
+	text-align: center;
+	width: 1000px;
 }
 
+h1{
+	color: #0FFE45;
+	font-family: "Verdana", sans-serif;
+}
+h2{
+	color: #0FFE45;
+}
+h3{
+	color: #0FFE45;
+}
 #storm{
 	width: 100px;
 }
@@ -9,4 +21,13 @@ h1{
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
+}
+p{
+	color: #0FFE45;
+}
+ol{
+	color: #0FFE45;
+}
+ul{
+	color: #0FFE45;
 }
