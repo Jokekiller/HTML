@@ -1,0 +1,12 @@
+h1{
+	color: #0FFE45;
+}
+
+#storm{
+	width: 100px;
+}
+.centering{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
